@@ -1,3 +1,0 @@
-class Abstraction
-
-end
